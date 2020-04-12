@@ -1,0 +1,15 @@
+requests
+lxml
+threadpool
+bs4
+pandas
+matplotlib
+sklearn
+pyecharts
+pyecharts-snapshot
+echarts-china-cities-pypkg
+jieba
+wordcloud
+numpy
+missingno
+seaborn
